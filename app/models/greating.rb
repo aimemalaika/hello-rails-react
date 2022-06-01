@@ -1,0 +1,2 @@
+class Greating < ApplicationRecord
+end
